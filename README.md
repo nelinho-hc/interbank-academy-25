@@ -48,6 +48,6 @@ Conteo de Transacciones: Crédito: 3 Débito: 2
 # 4. Estructura del proyecto
 ```bash
 ├── reto_ibk.py      # Script principal
-├── data.csv        # Archivo CSV a analizar
+├── data.csv         # Archivo CSV a analizar
 └── README.md        # Documentación del proyecto
 ```
